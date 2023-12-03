@@ -135,7 +135,7 @@ class EmpleadoController extends Controller
         $image = '';
         if ($empleado->image != null && $empleado->image != '') {
             $expiresAt = new \DateTime('2023-12-30');
-            $imageReference = app('firebase.storage')->getBucket()->object($empleado->image);
+            $imageReference = app('firebase.storage')->getBucket()->object($empleado->carpeta);
             if ($imageReference->exists()) {
                 $image = $imageReference->signedUrl($expiresAt);
             } else {

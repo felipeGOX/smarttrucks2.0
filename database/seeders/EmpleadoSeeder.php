@@ -28,7 +28,7 @@ class EmpleadoSeeder extends Seeder
             'sueldo' => '3000',
             'tipoc' => '0',
             'tipoe' => '1',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Empleados/1688511326.png?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=ljf8czrjpS5S1%2FGB8cs4geTH8OcfKOWgKmlKVQRIMapMTSPYBegTpxEzG4BwgqPAcdMurXKi7fABNavWYeztrKHcOkwvL0%2B3K9S4caQZLWyXw0B0naWxOVE%2Fh5xxgGwgS4X7Qhz02OlH98uhHSmvm4pWZVB%2FpOu2g1VZMoHsKTfVt0VY1PkKwAShmDjpCJUzQFJFVM5GLv3s7wsHkbWCetJowxqoN04vdwcnLqK9jD1E%2Bz1oR%2Bv9w1GZ5PFL7KD9Et4bgB2aAyXZVtmIWnriuiDNXzoOk4%2B4R1ZhEyE6Vp8I1VySG5oGJpQ54wXt0tnSvWBKDAKrT7vMux7%2BJMu%2BUw%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Empleados/1688511326.png?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=pWjpmFgyDH5%2BEMlDzpV3W1j6GY7mGgdZ4AXLClnleHtLfbYOejJX7k1kTKw%2FPDOD3IjEhrgjnCW2d%2BQMQDF3XqS39wmlTVW%2Fiq7KiWszki72Ed72IJdB8MnLLMpHt5x417OmLaU9VKsMrtWr7p%2BTdIaSrcsu4uh%2F8xFj7aHMqIfP9RfudX9hHRZs9i%2BePtVNLLu01eJzO52z%2FJlgRXeNHp0qagtWw8GooQKyEwimSgSiy6mQXc2zF7G5nBDGJrqGkowUpAAlSYe0gWsh0GRMT7ZbrOSjlcXf2kUIFf1uP%2FqTaKUa%2FkW1o0l8Sla5YxbKMrf%2B%2FRW9dES%2BF0t6O3MOYw%3D%3D ',
             'carpeta' => 'Empleados/1688511326.png',
         ])->assignRole('Administrador');
 
