@@ -97,6 +97,20 @@ class CamionController extends Controller
     public function edit($id)
     {
         $camion = Camion::findOrFail($id);
+
+    /*    $camion = Camion::where('id', '=', $id)->firstOrFail();
+        $image = '';
+        if ($camion->image != null && $camion->image != '') {
+            $expiresAt = new \DateTime('2023-12-30');
+            $imageReference = app('firebase.storage')->getBucket()->object($camion->carpeta);
+            if ($imageReference->exists()) {
+                $image = $imageReference->signedUrl($expiresAt);
+            } else {
+                $image = null;
+            }
+            dd($image);
+        }*/
+
         return view('camiones.edit', compact('camion'));
     }
 

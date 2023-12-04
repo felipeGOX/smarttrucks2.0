@@ -18,7 +18,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 1',
             'placa' => '1852PHD',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511315.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=q9KwsdU0isH5GircNl24EFmg4Gk4XlwwOZgN91ZiqicjasczxFAI%2Br5mp47g4E%2Bj%2FrJND1Mz0Mgp8VFqu74IWCTEbAlibid8YW0Rm1P%2BwF2mwEikyJLRkM1SQACeycUWA%2Fs8sFtg2kmmpLTMyRWjMhUNNzp3VyNFgecEDeX2ctskuJzs70oLgfFElkxc6o30h5XxYh4T7Bl2lFCIGL695hjYxBlxMsjis7ZIdC1A4SRxwsuH8hQ04jRTHD02pILZsm3n2JiosASL9vN20EskrlNpzRuQKuDJ2SMrZwW8GizbRpFqbpv0tvb2HEsgQrnlK7xRJKgsdD3fwxijjkxz7Q%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511315.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=Lw%2FpUoBzo4%2BdIIkLIZLkEFu1T%2BmAutWz00A2tqOO5lb6WTWBvDvMAAMBHz8Dr4MzNfcni8JJiJFvvkO%2FmeQz4uEW0gpO7U81eojERi6ntnNL9mpAg42wzg%2BKJAfs6vszVwZJMWza0%2FXqbhkRwoJRrFZQBEcbUGEnU56LZ8uwks%2FJ607Ci6BCYB4MlpSkRM%2B64sapWLcj%2BynaVKDJiLsFhlW915e5rw9BXMlA4TWewjSl07wEZJjZMYWiZQYdiT5UUiYw%2B9lUZpxL7wc5fZC26BClTFAu5C3xPCnxPfRwOXbqxZ686%2BMIah0YNisrVVKcPGkax0NzTlPtJ4kh8wuxTg%3D%3D',
             'carpeta' => 'Vehiculos/1788511315.jpg',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
@@ -27,7 +27,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 2',
             'placa' => '1234ABC',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511316.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=gfBY5mGJo8g3NYs1bPLBbRAsVpolizCUSU6p4L6gwfxsbF8tSVZZAXPqkJMOiCtAf94dJ41w8UE0YcJT0dw8P4X14oRHgCN1nQppKffuTRtoZNPV2E3aebmMuc1xcOHj3mHlE6x%2FxmGF9QubwMbvaTBP0B8mRgT7FjlQW2J3uguP14PYCWXwE6YI8BLq%2FgNFYhtAz3EC%2FPcathtahuW8757zqZ3gt5nEqbJ5y%2FpwV%2Bg0jvEmie9tuTkQrlOew7X13bUAxzY%2Ftf4NloPQgq68P8S68qADhlX%2Bcvy1%2BACnkGOoEcYhHvnMyYhXIhASBOCe0b8l6r20GFmbX47coeTtOA%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511316.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=D9Kanv%2FjbEqIoFnwvfHTwD0ii0ZDJH%2FqkGT4wU1UtaN3Usai8ekgRHBhv4iN7AOiWw%2BNMtwSv5rsajVpJfSLrG3cXY3t2oxu0p%2B%2BrhDGZaeGDsQC8wl2SlBTyQrU9pNMPOh9%2BnVhS%2FHuhrEU%2B%2Blr%2FNfteIBpu9cP1uRuCRyWTVPhxbn9aP9vQiVU1MHvsOBMD6x4P9J%2FfcWuIFujsveCb0il%2B10p06bZI3JkSG%2BSITl%2BDyf18lQ8X5oJ%2Bujxtud0qenWINAYZCBInNJK%2F0kLC38wsWBl%2Fgfc1Yg6se%2BYJVpIZNtS%2FPfATzLIuRPRyCgpFLcfD46bRyTUbFW9S%2BowUw%3D%3D',
             'carpeta' => 'Vehiculos/1788511316.jpg',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
@@ -36,7 +36,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 3',
             'placa' => '2052FBL',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511317.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=I4%2FypvIWSkI0cEg8kuh5QV0mbex1E7ujwKvvmeyABJPmh%2FI2GY1fYP01xw1tNL3dHPTPXOCccD6iBAJ5ieOCefNn0n415C3n5DSuss35GRMpDJsbnzAjeEb9tzqpE2gQgQ9ASoewkW7TkzdLp7GHy1aCfC0Tlr0aacTH20mJvr3j%2B9uo3IJjvWszhXzi5UE3ZWbCmhU3M7RSSRYX6JgZfAfkC3QbZYBCHZFjg7dqNz0n3LTl9a%2Fkf0Fviwe8tlnNezHAmChma42CRRbBzaYpY7owcMmY5IGtPAZTT%2BWp1rv3idMhO4pNSlyN0Qkc%2FFON2X1rKRmx%2BEfP0s7kJsjR6g%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511317.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=oHGe5J%2BVbhySWiLnIa8XDlxCcrxtm0wLkefUQYs5yMODiDfcMEAlrVXXCXuHEvsakLpTc6Mo%2BBcYRlbtuLp9aY0eBp1ZpNj7yVxC3sn8J2hsasKA8ekns1s25KVV77GanvaXYXYrfseHWTO5Oo3kMutsPR354bwrx10w%2Ft%2Bxlahkp4bu2Ht5BV%2B9jwmORZGd1LL2UMx5ayc%2FbEcIKioryrSVvxpOO689aI9Uocy3X3EUqev6Eyy7cggMKHS7GGkprZGhyokw3wftNa0AdfvBLXo5fWhtJ3%2B0n%2BTCjwANhENAhYcNo7Yi0V%2Bnf6GW52riK9V1luBuxGyV%2BRyv572mXw%3D%3D',
             'carpeta' => 'Vehiculos/1788511317.jpg',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
@@ -45,7 +45,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 4',
             'placa' => '2943ABC',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511318.jpeg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=cI%2FRnGfhUlM3L8zrlA4y5V%2BRteTDvxnsdwBXieIshBRSX0tR8mchw3dmzaC%2Fi%2B94h2SSpeFEl4kVzvLWtpwG9VYk5dlo4xYC5mycitmi%2FpdKYtBrEbOAQ%2FjnNfYh7Gd%2Fie0efm%2B2%2FnK73lZ851vZdKHyMzKiborcklrk9gZIGJO9RU7hvp26V0OmtU%2FzgveZwyWW%2FUuZtGTxleatFmHZAy7ZC5Dklt1pBjz4zr5nb7y8x35Z5Bw7QmX5S2Wp6S%2BdeBpiCnCyAqpmEXoLpdp%2BMp4XSIuCPCFt39vi9IHdVzMyABHINZ1xoLs%2FOzBwusTC%2F9nnN6TCGwbiVLxiF30x5g%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511318.jpeg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=TgNRjL0DWnejZVpbGkzIUAf%2BGuwlV%2Fayj8GaFU0TQ848EcnX2Wgo7e3Db1rEd8Mp89N4hYwAyNGF%2F0j6k%2F5Vsdjel%2BTYE0TUpDb8Yu5bA0iB8IWxhp7pCXtO3xLuKu7MGwk%2BxhCSeHT9%2FoLQMtxIsFXajvGenZShd7g%2FuodGx1L1Yj73mglF35QPrgq3Ly91tvFNQ8ktZJ58yuU9vyvFasTK4Sd0dtlwDrL%2B8Fv6vKFrpNeRm4FLrWv1fCjIHfoVpFSxS4y%2FhQhcz6UNqRfxWcGKd4T%2BB3NOL28NEsLqJsxrkvzTPk7V3U5j5km1n4zCow8I6gndfTa6C2Q0JAA3QQ%3D%3D',
             'carpeta' => 'Vehiculos/1788511318.jpeg',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
@@ -54,7 +54,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 5',
             'placa' => '1000BOL',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511319.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=QtNOg6qZSyy51HqG17cNAkUemMGHha6r0HQYyLR3u855O9iAK9uWVAzSFMoj18VLVyd8hJNVCXtJeXh1xnYemAm%2BlmFrRpkWk2nRpiQif4EzosXdaejkTonCeIWIyBy8Sbgk0LP6wQYG3S112S%2FDhW%2Flg8w3IupO2juOBRDEKWxuRhZB%2BQkMJQAIGU3afPpPdtzUZucBk6NlbxtFdy5XfnfX2kDe9Cl2HPJ4KGAGupR8GZ9GzKSSO8OpWhWuEj5BUg1ycTPnPZh9QjSKDSBQO8AlKpWf70UeWhqfDzOjsXbdV1tH2h8%2BlYJPzhRUyd%2BaUuCllP7KcqT44eVtCgBRfA%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511319.jpg?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=W7o34FGQe1KGBzauL68t5vyYVAyh1qk807EY0ezp34MUZ5MEu4%2Fv8B1LQrmxC%2BXGsShJmOmiNCoHpKdrFWU7VcCjQfs8drKUdD0DF7PnBS4bnkfmKB%2FF8%2F5DTQx5dZlCYCpZL%2F03YunKHWRfIGRr5uR6vBqKW46Ok29u2vKFA5LrM3kf3Fp%2FoQgJ7xw5lWe4cYJ6IVn6Ogt0Ilca8hSu7HB9uc8KAO0Cp4HoEb8EUz2C3%2F8O%2BB4S4DC4pTR5E5oJfIPoFFmG9MDV3M4ifORksTh8NtKIerlJmVvwA9fCjoMmPgua3RdT32GVihC9XxSeSgqAGSouUcDtYzdUvTNqMw%3D%3D',
             'carpeta' => 'Vehiculos/1788511319.jpg',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
@@ -63,7 +63,7 @@ class CamionSeeder extends Seeder
         Camion::create([
             'nombre' => 'Vehiculo 6',
             'placa' => '2291PSX',
-            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511320.png?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1689379200&Signature=h6rZHUuRkG8sxPKJiHK4Dk1Yd7PHcV5TKMrwLZXNo%2F3EHCHAlKYZ6vLHtpEwGbWYvL7YdzdwwqGmGIzJktB7MRs1vbZX9a8QHbAvjNt6aqRSB4eKjxjadTzSSH2lr1cgWVQNMscGKp%2BoAtj%2BkWGbGdVxv3uRIe9NXzSiKkhFCzqzqKEORuLhXgtOAeN8HHl2z5nEBRX6gDYbTD6o5nrQDaMOGRjyy52I0D0%2BbrWgax2xrx9lrIKeRGd0WRl1o4H2wXxCYflYkZZiwZbeCXapwRuIir6Tp08qqvZWuwdWzJtiF5zgORAhJ%2F%2FfZTzbTws6f%2BesV4lePy8IMi183YypSQ%3D%3D',
+            'image' => 'https://storage.googleapis.com/smart-trucks-41e25.appspot.com/Vehiculos/1788511320.png?GoogleAccessId=firebase-adminsdk-r5qsx%40smart-trucks-41e25.iam.gserviceaccount.com&Expires=1703894400&Signature=jxQV%2Bq6AISykc3eQUIJkxqL%2B3ueipJ3jm7RnxcvoVlpdlhKG%2Btt55GQGATz1NkfkJg7ZZVJ8c2aaOcDrWl%2BVfpvbuuwS6TdKusXcNuLmm0tKfSCkK3EklILzjoSBO0oiCBM%2FBISE7sF6PJ6lqWIHXdfa%2FvKtSFS%2FuHfy%2Bc0DMd8rl%2FlJWNo6XxhAXKN7S6CDoU4wOxHxCudkdSdHV8hZ4Jvf4anGROIt2RqN8OYW7qcGSzx4b4om6XqOohZUhI%2BKOZqKi1p%2FTmuSbCcVU3QEHweie5N77Yv%2FuQt4sY5lX2nhhXxtUiHsUXoB6jx%2Fg64PMq3P3TOCIc5VflzvcUrz9g%3D%3D',
             'carpeta' => 'Vehiculos/1788511320.png',
             'capacidad_personal' => '6',
             'capacidad_carga' => '15000',
