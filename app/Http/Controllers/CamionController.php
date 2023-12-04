@@ -66,7 +66,7 @@ class CamionController extends Controller
             }
             $camion->carpeta = $firebase_storage_path . $file;
             //URL
-            $expiresAt = new \DateTime('2023-07-15');
+            $expiresAt = new \DateTime('2023-12-30');
             $imageReference = app('firebase.storage')->getBucket()->object($camion->carpeta);
             if ($imageReference->exists()) {
                 $camion->image = $imageReference->signedUrl($expiresAt);
@@ -130,7 +130,7 @@ class CamionController extends Controller
             }
             $camion->carpeta = $firebase_storage_path . $file;
             //URL
-            $expiresAt = new \DateTime('2023-07-15');
+            $expiresAt = new \DateTime('2023-12-30');
             $imageReference = app('firebase.storage')->getBucket()->object($camion->carpeta);
             if ($imageReference->exists()) {
                 $camion->image = $imageReference->signedUrl($expiresAt);
